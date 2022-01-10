@@ -1,1 +1,1 @@
-# SphereTracing
+# SphereTracing A game a friend and I made, while trying to understand Sphere Tracing
